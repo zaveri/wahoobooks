@@ -1,0 +1,8 @@
+<% @ads.each do |ad|%> 
+
+<%= link_to h(ad.title), :controller => 'ads', :action => 'show', :id => ad %>
+(<%=h ad.category.name.split("--")[0] %> <%=h ad.course %>) -- $<%=h ad.price %> --
+<%= ad.submitted_long_ago %> ago
+<br/>
+<% end %>
+

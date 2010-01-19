@@ -1,0 +1,9 @@
+<br/>
+<h1><%=h @ad.title %></h1>  <b>Price:</b> $<%=h @ad.price %> <br/>  <br/>
+
+<b>Course:</b>  <%= @ad.category.name.split("--")[0] %> <%=@ad.course %>
+<br/><br/>
+<b>Description:</b><p><%=h @ad.ad %></p><br/>
+
+<b>Reply to:</b> <%= mail_to @ad.email.to_s %><br/>
+

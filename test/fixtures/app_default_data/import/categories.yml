@@ -1,0 +1,1143 @@
+categories_000001:
+  slug: aas
+  name: AAS--African-american and African Studies
+  updated_at: 2008-04-01 15:40:49
+  id: "1"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000002:
+  slug: airs
+  name: AIRS--Air Science
+  updated_at: 2008-04-01 15:40:49
+  id: "2"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000003:
+  slug: amel
+  name: AMEL--Asian and Middle Eastern Languages and Cultures
+  updated_at: 2008-04-01 15:40:49
+  id: "3"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000004: 
+  slug: ampe
+  name: AMPE--Applied Mechanics
+  updated_at: 2008-04-01 15:40:49
+  id: "4"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000005:
+  slug: amst
+  name: AMST--American Studies
+  updated_at: 2008-04-01 15:40:49
+  id: "5"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000006:
+  slug: anth
+  name: ANTH--Anthropology
+  updated_at: 2008-04-01 15:40:49
+  id: "6"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000007:
+  slug: apma
+  name: APMA--Applied Math
+  updated_at: 2008-04-01 15:40:49
+  id: "7"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000008:
+  slug: arab
+  name: ARAB--Arabic
+  updated_at: 2008-04-01 15:40:49
+  id: "8"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000009: 
+  slug: arch
+  name: ARCH--Architecture
+  updated_at: 2008-04-01 15:40:49
+  id: "9"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000010: 
+  slug: arh
+  name: ARH--Architectural History
+  updated_at: 2008-04-01 15:40:49
+  id: "10"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000011: 
+  slug: arth
+  name: ARTH--History of Art
+  updated_at: 2008-04-01 15:40:49
+  id: "11"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000012: 
+  slug: artr
+  name: ARTR--Arabic in Translation
+  updated_at: 2008-04-01 15:40:49
+  id: "12"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000013: 
+  slug: arts
+  name: ARTS--Studio Art
+  updated_at: 2008-04-01 15:40:49
+  id: "13"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000014:
+  slug: asl
+  name: ASL--American Sign Language
+  updated_at: 2008-04-01 15:40:49
+  id: "14"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000015: 
+  slug: astr
+  name: ASTR--Astronomy
+  updated_at: 2008-04-01 15:40:49
+  id: "15"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000016: 
+  slug: bims
+  name: BIMS--Biomedical Sciences
+  updated_at: 2008-04-01 15:40:49
+  id: "16"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000017: 
+  slug: bioc
+  name: BIOC--Biochemistry and Molecular Genetics
+  updated_at: 2008-04-01 15:40:49
+  id: "17"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000018: 
+  slug: bioe
+  name: BIOE--Bioethics
+  updated_at: 2008-04-01 15:40:49
+  id: "18"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000019: 
+  slug: biol
+  name: BIOL--BiologyBIOM--Biomedical Engineering
+  updated_at: 2008-04-01 15:40:49
+  id: "19"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000020: 
+  slug: biop
+  name: BIOP--Biophysics
+  updated_at: 2008-04-01 15:40:49
+  id: "20"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000021: 
+  slug: ccc
+  name: CC--Common Courses
+  updated_at: 2008-04-01 15:40:49
+  id: "21"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000022: 
+  slug: ccsc
+  name: CCSC--Common Courses-Sciences
+  updated_at: 2008-04-01 15:40:49
+  id: "22"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000023: 
+  slug: ccss
+  name: CCSS--Common Courses-Social Sciences
+  updated_at: 2008-04-01 15:40:49
+  id: "23"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000024: 
+  slug: cee
+  name: CE--Civil Engineering
+  updated_at: 2008-04-01 15:40:49
+  id: "24"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000025: 
+  slug: cell
+  name: CELL--Cell Biology
+  updated_at: 2008-04-01 15:40:49
+  id: "25"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000026: 
+  slug: che
+  name: CHE--Chemical Engineering
+  updated_at: 2008-04-01 15:40:49
+  id: "26"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000027: 
+  slug: chem
+  name: CHEM--Chemistry
+  updated_at: 2008-04-01 15:40:49
+  id: "27"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000028: 
+  slug: chin
+  name: CHIN--Chinese
+  updated_at: 2008-04-01 15:40:49
+  id: "28"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000029: 
+  slug: clas
+  name: CLAS--Classics
+  updated_at: 2008-04-01 15:40:49
+  id: "29"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000030: 
+  slug: cogs
+  name: COGS--Cognitive Science
+  updated_at: 2008-04-01 15:40:49
+  id: "30"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000031: 
+  slug: comm
+  name: COMM--Commerce
+  updated_at: 2008-04-01 15:40:49
+  id: "31"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000032: 
+  slug: cplt
+  name: CPLT--Comparative Literature
+  updated_at: 2008-04-01 15:40:49
+  id: "32"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000033: 
+  slug: cse
+  name: CS--Computer Science
+  updated_at: 2008-04-01 15:40:49
+  id: "33"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000034:
+  slug: dram
+  name: DRAM--Drama
+  updated_at: 2008-04-01 15:40:49
+  id: "34"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000035:
+  slug: east
+  name: EAST--East Asian Studies
+  updated_at: 2008-04-01 15:40:49
+  id: "35"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000036:
+  slug: ece
+  name: ECE--Electrical and Computer Engineering
+  updated_at: 2008-04-01 15:40:49
+  id: "36"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000037:
+  slug: econ
+  name: ECON--Economics
+  updated_at: 2008-04-01 15:40:49
+  id: "37"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000038:
+  slug: edhs
+  name: EDHS--Human Services
+  updated_at: 2008-04-01 15:40:49
+  id: "38"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000039:
+  slug: edis
+  name: EDIS--Curriculum Instruction and Special Education
+  updated_at: 2008-04-01 15:40:49
+  id: "39"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000040:
+  slug: edlf
+  name: EDLF--Educational Leadership and Foundations
+  updated_at: 2008-04-01 15:40:49
+  id: "40"
+  parent_category_id: "1" 
+  created_at: 2008-03-31 14:57:53
+categories_000041:
+  slug: enam
+  name: ENAM--American Literature To 1900
+  updated_at: 2008-04-01 15:40:49
+  id: "41"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000042:
+  slug: encr
+  name: ENCR--Criticism
+  updated_at: 2008-04-01 15:40:49
+  id: "42"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000043:
+  slug: enec
+  name: ENEC--Restoration and Eighteenth-century Literature
+  updated_at: 2008-04-01 15:40:49
+  id: "43"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000044:
+  slug: engl
+  name: ENGL--Miscellaneous English
+  updated_at: 2008-04-01 15:40:49
+  id: "44"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000045:
+  slug: engn
+  name: ENGN--Genre studies
+  updated_at: 2008-04-01 15:40:49
+  id: "45"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000046:
+  slug: engr
+  name: ENGR--Engineering
+  updated_at: 2008-04-01 15:40:49
+  id: "46"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000047:
+  slug: enls
+  name: ENLS--English Language Study
+  updated_at: 2008-04-01 15:40:49
+  id: "47"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000048:
+  slug: enlt
+  name: ENLT--Introductory Seminar In Literature
+  updated_at: 2008-04-01 15:40:49
+  id: "48"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53 
+categories_000049:
+  slug: enmc
+  name: ENMC--Modern and Contemporary Literature
+  updated_at: 2008-04-01 15:40:49
+  id: "49"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000050:
+  slug: enmd
+  name: ENMD--Medieval Literature
+  updated_at: 2008-04-01 15:40:49
+  id: "50"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000051:
+  slug: ennc
+  name: ENNC--Nineteenth-century British Literature
+  updated_at: 2008-04-01 15:40:49
+  id: "51"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000052:
+  slug: enpg
+  name: ENPG--Pedagogy
+  updated_at: 2008-04-01 15:40:49
+  id: "52"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000053:
+  slug: enpw
+  name: ENPW--Poetry Writing
+  updated_at: 2008-04-01 15:40:49
+  id: "53"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000054:
+  slug: enrn
+  name: ENRN--Renaissance Literature
+  updated_at: 2008-04-01 15:40:49
+  id: "54"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000055:
+  slug: ensp
+  name: ENSP--Special Topics In Literature
+  updated_at: 2008-04-01 15:40:49
+  id: "55"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000056:
+  slug: entc
+  name: ENTC--Twentieth-century Literature
+  updated_at: 2008-04-01 15:40:49
+  id: "56"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000057:
+  slug: enwr
+  name: ENWR--Academic Professional and Creative Writing
+  updated_at: 2008-04-01 15:40:49
+  id: "57"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000058:
+  slug: eep
+  name: EP--Engineering Physics
+  updated_at: 2008-04-01 15:40:49
+  id: "58"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000059:
+  slug: etp
+  name: ETP--Environmental Thought and Practice
+  updated_at: 2008-04-01 15:40:49
+  id: "59"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000060:
+  slug: evat
+  name: EVAT--Atmospheric Sciences
+  updated_at: 2008-04-01 15:40:49
+  id: "60"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000061:
+  slug: evec
+  name: EVEC--Ecology
+  updated_at: 2008-04-01 15:40:49
+  id: "61"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000062:
+  slug: evge
+  name: EVGE--Geosciences
+  updated_at: 2008-04-01 15:40:49
+  id: "62"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000063:
+  slug: evhy
+  name: EVHY--Hydrology
+  updated_at: 2008-04-01 15:40:49
+  id: "63"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000064:
+  slug: evsc
+  name: EVSC--Environmental Science
+  updated_at: 2008-04-01 15:40:49
+  id: "64"
+  parent_category_id: "1"
+  created_at: 2008-03-31 14:57:53
+categories_000065:
+  slug: fren
+  name: FREN--French
+  updated_at: 2008-04-01 15:40:49
+  id: "65"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000066:
+  slug: frtr
+  name: FRTR--French In Translation
+  updated_at: 2008-04-01 15:40:49
+  id: "66"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000067:
+  slug: gcnl
+  name: GCNL--Clinical Nurse Leadership
+  updated_at: 2008-04-01 15:40:49
+  id: "67"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000068:
+  slug: germ
+  name: GERM--German
+  updated_at: 2008-04-01 15:40:49
+  id: "68"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000069:
+  slug: getr
+  name: GETR--German In Translation
+  updated_at: 2008-04-01 15:40:49
+  id: "69"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000070:
+  slug: gnur
+  name: GNUR--Graduate Nursing
+  updated_at: 2008-04-01 15:40:49
+  id: "70"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000071:
+  slug: gree
+  name: GREE--Greek
+  updated_at: 2008-04-01 15:40:49
+  id: "71"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000072:
+  slug: hbio
+  name: HBIO--Human Biology
+  updated_at: 2008-04-01 15:40:49
+  id: "72"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000073:
+  slug: hebr
+  name: HEBR--Hebrew
+  updated_at: 2008-04-01 15:40:49
+  id: "73"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000074:
+  slug: hes
+  name: HES--Health Evaluation Sciences
+  updated_at: 2008-04-01 15:40:49
+  id: "74"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000075:
+  slug: hiaf
+  name: HIAF--African History
+  updated_at: 2008-04-01 15:40:49
+  id: "75"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000076:
+  slug: hiea
+  name: HIEA--East Asian History
+  updated_at: 2008-04-01 15:40:49
+  id: "76"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000077:
+  slug: hieu
+  name: HIEU--European History
+  updated_at: 2008-04-01 15:40:49
+  id: "77"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000078:
+  slug: hila
+  name: HILA--Latin American History
+  updated_at: 2008-04-01 15:40:49
+  id: "78"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000079:
+  slug: hime
+  name: HIME--Middle Eastern History
+  updated_at: 2008-04-01 15:40:49
+  id: "79"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000080:
+  slug: hind
+  name: HIND--Hindi
+  updated_at: 2008-04-01 15:40:49
+  id: "80"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000081:
+  slug: hisa
+  name: HISA--South Asian History
+  updated_at: 2008-04-01 15:04:20
+  id: "81"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000082:
+  slug: hist
+  name: HIST--General History
+  updated_at: 2008-04-01 15:40:49
+  id: "82"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000083:
+  slug: hius
+  name: HIUS--United States History
+  updated_at: 2008-04-01 15:40:49
+  id: "83"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000084:
+  slug: hsci
+  name: HSCI--College Science Scholars
+  updated_at: 2008-04-01 15:40:49
+  id: "84"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000085:
+  slug: imp
+  name: IMP--Inderdisciplinary Majors Program
+  updated_at: 2008-04-01 15:40:49
+  id: "85"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000086:
+  slug: inst
+  name: INST--Interdisciplinary Studies
+  updated_at: 2008-04-01 15:40:49
+  id: "86"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000087:
+  slug: isbu
+  name: ISBU--Interdisciplinary Studies-business
+  updated_at: 2008-04-01 15:40:49
+  id: "87"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000088:
+  slug: iscp
+  name: ISCP--Interdisciplinary Studies-capstone Project
+  updated_at: 2008-04-01 15:40:49
+  id: "88"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000089:
+  slug: ishu
+  name: ISHU--Interdisciplinary Studies-humanities
+  updated_at: 2008-04-01 15:40:49
+  id: "89"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000090:
+  slug: isls
+  name: ISLS--Interdisciplinary Studies-liberal Studies
+  updated_at: 2008-04-01 15:40:49
+  id: "90"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000091:
+  slug: isss
+  name: ISSS--Interdisciplinary Studies-social Sciences
+  updated_at: 2008-04-01 15:40:49
+  id: "91"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000092:
+  slug: ital
+  name: ITAL--Italian
+  updated_at: 2008-04-01 15:40:49
+  id: "92"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000093:
+  slug: ittr
+  name: ITTR--Italian In Translation
+  updated_at: 2008-04-01 15:40:49
+  id: "93"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000094:
+  slug: japn
+  name: JAPN--Japanese
+  updated_at: 2008-04-01 15:40:49
+  id: "94"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000095:
+  slug: jptr
+  name: JPTR--Japanese In Translation
+  updated_at: 2008-04-01 15:40:49
+  id: "95"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000096:
+  slug: jwst
+  name: JWST--Jewish Studies
+  updated_at: 2008-04-01 15:40:49
+  id: "96"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000097:
+  slug: lar
+  name: LAR--Landscape Architecture
+  updated_at: 2008-04-01 15:40:49
+  id: "97"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000098:
+  slug: lase
+  name: LASE--Liberal Arts Seminars
+  updated_at: 2008-04-01 15:40:49
+  id: "98"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000099:
+  slug: last
+  name: LAST--Latin American Studies
+  updated_at: 2008-04-01 15:40:49
+  id: "99"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000100:
+  slug: lati
+  name: LATI--Latin
+  updated_at: 2008-04-01 15:40:49
+  id: "100"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000101:
+  slug: ling
+  name: LING--Linguistics
+  updated_at: 2008-04-01 15:40:49
+  id: "101"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000102:
+  slug: lngs
+  name: LNGS--General Linguistics
+  updated_at: 2008-04-01 15:40:49
+  id: "102"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000103:
+  slug: mae
+  name: MAE--Mechanical and Aerospace Engineering
+  updated_at: 2008-04-01 15:40:49
+  id: "103"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000104:
+  slug: math
+  name: MATH--Mathematics
+  updated_at: 2008-04-01 15:40:49
+  id: "104"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000105:
+  slug: mdst
+  name: MDST--Media Studies
+  updated_at: 2008-04-01 15:40:49
+  id: "105"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000106:
+  slug: mest
+  name: MEST--Middle-eastern Studies
+  updated_at: 2008-04-01 15:40:49
+  id: "106"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000107:
+  slug: micr
+  name: MICR--Microbiology
+  updated_at: 2008-04-01 15:40:49
+  id: "107"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000108:
+  slug: misc
+  name: MISC--Military Science
+  updated_at: 2008-04-01 15:40:49
+  id: "108"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000109:
+  slug: mse
+  name: MSE--Materials Science and Engineering
+  updated_at: 2008-04-01 15:40:49
+  id: "109"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000110:
+  slug: msp
+  name: MSP--Medieval Studies
+  updated_at: 2008-04-01 15:40:49
+  id: "110"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000111:
+  slug: musi
+  name: MUSI--Music
+  updated_at: 2008-04-01 15:40:49
+  id: "111"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000112:
+  slug: nasc
+  name: NASC--Naval Science
+  updated_at: 2008-04-01 15:40:49
+  id: "112"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000113:
+  slug: nesc
+  name: NESC--Neuroscience
+  updated_at: 2008-04-01 15:40:49
+  id: "113"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000114:
+  slug: nuco
+  name: NUCO--Nursing Core
+  updated_at: 2008-04-01 15:40:49
+  id: "114"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000115:
+  slug: nuip
+  name: NUIP--Nursing Interprofessional
+  updated_at: 2008-04-01 15:40:49
+  id: "115"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_000116:
+  slug: nurs
+  name: NURS--School of Nursing
+  updated_at: 2008-04-01 15:40:49
+  id: "116"
+  parent_category_id: "2"
+  created_at: 2008-03-31 14:57:53
+categories_0000117:
+    slug: pers
+    name: PERS--Persian
+    updated_at: 2008-04-01 15:40:49
+    id: "117"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000118:
+    slug: phar
+    name: PHAR--Pharmacology
+    updated_at: 2008-04-01 15:40:49
+    id: "118"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000119:
+    slug: phil
+    name: PHIL--Philosophy
+    updated_at: 2008-04-01 15:40:49
+    id: "119"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000120:
+    slug: phy
+    name: PHY--Physiology
+    updated_at: 2008-04-01 15:40:49
+    id: "120"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000121:
+    slug: phye
+    name: PHYE--Physical Education
+    updated_at: 2008-04-01 15:40:49
+    id: "121"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000122:
+    slug: phys
+    name: PHYS--Physics
+    updated_at: 2008-04-01 15:40:49
+    id: "122"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000123:
+    slug: plac
+    name: PLAC--Planning Application
+    updated_at: 2008-04-01 15:40:49
+    id: "123"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000124:
+    slug: plad
+    name: PLAD--Departmental Seminars
+    updated_at: 2008-04-01 15:40:49
+    id: "124"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000125:
+    slug: plan
+    name: PLAN--Urban and Environmental Planning
+    updated_at: 2008-04-01 15:40:49
+    id: "125"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000126:
+    slug: plap
+    name: PLAP--American Politics
+    updated_at: 2008-04-01 15:40:49
+    id: "126"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000127:
+    slug: plcp
+    name: PLCP--Comparative Politics
+    updated_at: 2008-04-01 15:40:49
+    id: "127"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000128:
+    slug: plir
+    name: PLIR--International Relations
+    updated_at: 2008-04-01 15:40:49
+    id: "128"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000129:
+    slug: plpt
+    name: PLPT--Political Theory
+    updated_at: 2008-04-01 15:40:49
+    id: "129"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000130:
+    slug: plsk
+    name: PLSK--Personal Skills
+    updated_at: 2008-04-01 15:40:49
+    id: "130"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000131:
+    slug: pol
+    name: POL--Polish
+    updated_at: 2008-04-01 15:40:49
+    id: "131"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000132:
+    slug: polt
+    name: POLT--Politics
+    updated_at: 2008-04-01 15:40:49
+    id: "132"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000133:
+    slug: port
+    name: PORT--Portuguese
+    updated_at: 2008-04-01 15:40:49
+    id: "133"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000134:
+    slug: potr
+    name: POTR--Portuguese In Translation
+    updated_at: 2008-04-01 15:40:49
+    id: "134"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000135:
+    slug: ppl
+    name: PPL--Political Philosophy Policy and Law
+    updated_at: 2008-04-01 15:40:49
+    id: "135"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000136:
+    slug: pst
+    name: PST--Political and Social Thought
+    updated_at: 2008-04-01 15:40:49
+    id: "136"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000137:
+    slug: psyc
+    name: PSYC--Psychology
+    updated_at: 2008-04-01 15:40:49
+    id: "137"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000138:
+    slug: rela
+    name: RELA--African Religions
+    updated_at: 2008-04-01 15:40:49
+    id: "138"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000139:
+    slug: relb
+    name: RELB--Buddhism
+    updated_at: 2008-04-01 15:40:49
+    id: "139"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000140:
+    slug: relc
+    name: RELC--Christianity
+    updated_at: 2008-04-01 15:40:49
+    id: "140"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000141:
+    slug: relg
+    name: RELG--General Religion
+    updated_at: 2008-04-01 15:40:49
+    id: "141"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000142:
+    slug: relh
+    name: RELH--Hinduism
+    updated_at: 2008-04-01 15:40:49
+    id: "142"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000143:
+    slug: reli
+    name: RELI--Islam
+    updated_at: 2008-04-01 15:40:49
+    id: "143"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000144:
+    slug: relj
+    name: RELJ--Judaism
+    updated_at: 2008-04-01 15:40:49
+    id: "144"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000145:
+    slug: rels
+    name: RELS--Special Topic
+    updated_at: 2008-04-01 15:40:49
+    id: "145"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000146:
+    slug: russ
+    name: RUSS--Russian
+    updated_at: 2008-04-01 15:40:49
+    id: "146"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000147:
+    slug: rutr
+    name: RUTR--Russian In Translation
+    updated_at: 2008-04-01 15:40:49
+    id: "147"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000148:
+    slug: sans
+    name: SANS--Sanskrit
+    updated_at: 2008-04-01 15:40:49
+    id: "148"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000149:
+    slug: sarc
+    name: SARC--School of Architecture
+    updated_at: 2008-04-01 15:40:49
+    id: "149"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000150:
+    slug: sast
+    name: SAST--South Asian Studies
+    updated_at: 2008-04-01 15:40:49
+    id: "150"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000151:
+    slug: satr
+    name: SATR--South Asian Literature In Translation
+    updated_at: 2008-04-01 15:40:49
+    id: "151"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000152:
+    slug: slav
+    name: SLAV--Slavic
+    updated_at: 2008-04-01 15:40:49
+    id: "152"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000153:
+    slug: slfk
+    name: SLFK--Slavic Folklore and Oral Literature
+    updated_at: 2008-04-01 15:40:49
+    id: "153"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000154:
+    slug: sltr
+    name: SLTR--Slavic In Translation
+    updated_at: 2008-04-01 15:40:49
+    id: "154"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000155:
+    slug: soc
+    name: SOC--Sociology
+    updated_at: 2008-04-01 15:40:49
+    id: "155"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000156:
+    slug: span
+    name: SPAN--Spanish
+    updated_at: 2008-04-01 15:40:49
+    id: "156"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000157:
+    slug: stat
+    name: STAT--Statistics
+    updated_at: 2008-04-01 15:40:49
+    id: "157"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000158:
+    slug: sts
+    name: STS--Department of Science Technology and Society
+    updated_at: 2008-04-01 15:40:49
+    id: "158"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000159:
+    slug: swag
+    name: SWAG--Studies In Women and Gender
+    updated_at: 2008-04-01 15:40:49
+    id: "159"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000160:
+    slug: sys
+    name: SYS--Systems Engineering
+    updated_at: 2008-04-01 15:40:49
+    id: "160"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000161:
+    slug: tmp
+    name: TMP--Technology Management and Policy
+    updated_at: 2008-04-01 15:40:49
+    id: "161"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000162:
+    slug: urdu
+    name: URDU--Urdu
+    updated_at: 2008-04-01 15:40:49
+    id: "162"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+categories_0000163:
+    slug: usem
+    name: USEM--University Seminar
+    updated_at: 2008-04-01 15:40:49
+    id: "163"
+    parent_category_id: "3"
+    created_at: 2008-03-31 14:57:53
+
+
